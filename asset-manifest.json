@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommrece-reacat/static/css/main.1066c72c.css",
+    "main.js": "/ecommrece-reacat/static/js/main.fe63487b.js",
+    "static/js/787.de8737d3.chunk.js": "/ecommrece-reacat/static/js/787.de8737d3.chunk.js",
+    "static/media/2.png": "/ecommrece-reacat/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/ecommrece-reacat/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/4.png": "/ecommrece-reacat/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/1.png": "/ecommrece-reacat/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/8.webp": "/ecommrece-reacat/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.png": "/ecommrece-reacat/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/6.webp": "/ecommrece-reacat/static/media/6.5828a0fe3c77468b8726.webp",
+    "static/media/7.webp": "/ecommrece-reacat/static/media/7.59c9a0eba54726d9fc95.webp",
+    "index.html": "/ecommrece-reacat/index.html",
+    "main.1066c72c.css.map": "/ecommrece-reacat/static/css/main.1066c72c.css.map",
+    "main.fe63487b.js.map": "/ecommrece-reacat/static/js/main.fe63487b.js.map",
+    "787.de8737d3.chunk.js.map": "/ecommrece-reacat/static/js/787.de8737d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1066c72c.css",
+    "static/js/main.fe63487b.js"
+  ]
+}
