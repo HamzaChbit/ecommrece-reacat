@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ecommrece-reacat/static/css/main.1066c72c.css",
+    "main.css": "/ecommrece-reacat/static/css/main.12ec1809.css",
     "main.js": "/ecommrece-reacat/static/js/main.52f8b3d5.js",
     "static/js/787.de8737d3.chunk.js": "/ecommrece-reacat/static/js/787.de8737d3.chunk.js",
     "static/media/2.png": "/ecommrece-reacat/static/media/2.5f080d9e47bf46ca3fce.png",
@@ -12,12 +12,12 @@
     "static/media/6.webp": "/ecommrece-reacat/static/media/6.5828a0fe3c77468b8726.webp",
     "static/media/7.webp": "/ecommrece-reacat/static/media/7.59c9a0eba54726d9fc95.webp",
     "index.html": "/ecommrece-reacat/index.html",
-    "main.1066c72c.css.map": "/ecommrece-reacat/static/css/main.1066c72c.css.map",
+    "main.12ec1809.css.map": "/ecommrece-reacat/static/css/main.12ec1809.css.map",
     "main.52f8b3d5.js.map": "/ecommrece-reacat/static/js/main.52f8b3d5.js.map",
     "787.de8737d3.chunk.js.map": "/ecommrece-reacat/static/js/787.de8737d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1066c72c.css",
+    "static/css/main.12ec1809.css",
     "static/js/main.52f8b3d5.js"
   ]
 }
